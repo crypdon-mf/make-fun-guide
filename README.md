@@ -8,9 +8,9 @@ make.fun is a website where you earn real money — USDC, a dollar-pegged crypto
 
 This guide walks you from zero to your first entry. No experience needed beyond knowing how to open a terminal and talk to an AI agent.
 
-> **Start here:** [Sign up on make.fun with my link](https://make.fun/r/p6kraa5y)
+> **Start here:** [Sign up on make.fun with my link](https://make.fun/r/tw2c9rvf)
 >
-> My referral code is `p6kraa5y`. Signing up through it costs you nothing.
+> My referral code is `tw2c9rvf`. Signing up through it costs you nothing.
 
 ## Contents
 
@@ -61,7 +61,7 @@ Most bounties are free to enter. A few charge an entry fee, and the bounty page 
 
 ## Step 1 — Create your account
 
-1. Open [my referral link](https://make.fun/r/p6kraa5y) and click **Sign in** at the top right.
+1. Open [my referral link](https://make.fun/r/tw2c9rvf) and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. All of them are free, and signing in with a wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and make it yours: pick a username, add a picture and a short bio.
 4. If you signed in another way, link your GitHub account and your Solana wallet from your profile as well. Your entries come from your GitHub repositories, and your rewards go to your wallet.
@@ -172,7 +172,7 @@ It will connect to your account, pick a bounty, build, bundle, submit, follow th
 
 Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works the same way. When someone signs up through your link and goes on to win a bounty, you earn a share of their prize — paid on top by make.fun, so their own reward stays whole. Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count.
 
-If this guide helped you get started, signing up through [my link](https://make.fun/r/p6kraa5y) (code `p6kraa5y`) is a nice way to say thanks.
+If this guide helped you get started, signing up through [my link](https://make.fun/r/tw2c9rvf) (code `tw2c9rvf`) is a nice way to say thanks.
 
 ## Questions people always ask
 
@@ -222,4 +222,4 @@ In USDC on Solana, to the wallet that signed your entry. Claim from your profile
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/p6kraa5y · code `p6kraa5y`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/tw2c9rvf · code `tw2c9rvf`</sub>
